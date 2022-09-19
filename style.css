@@ -1,0 +1,24 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-color: #0d0707
+}
+
+#h1custom {
+  background-color: #6b6b6b; 
+  text-align:center;
+}
+
+#h2 {
+  background-color: #fb0fff; 
+  text-align:center;
+}
+
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+
+
